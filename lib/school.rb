@@ -8,4 +8,7 @@ class School
     @roster = []
   end
   
+  def add_student("Zach Morris", 9)
+    
+  
 end
