@@ -1,9 +1,6 @@
 # code here!
 
 class School
- 
-  def name= (name)
-    @name = name
-  end
+  attr_accessor :name, :roster
   
 end
